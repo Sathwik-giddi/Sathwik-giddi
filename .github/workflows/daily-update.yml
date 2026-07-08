@@ -1,0 +1,36 @@
+name: Daily Profile Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update last-updated timestamp
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          sed -i "s/<!-- LAST_UPDATED -->.*<!-- \/LAST_UPDATED -->/<!-- LAST_UPDATED -->${TODAY}<!-- \/LAST_UPDATED -->/" README.md
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Sathwik-giddi
+          outputs: |
+            dist/github-contribution-snake.svg
+            dist/github-contribution-snake-dark.svg?palette=github-dark
+
+      - name: Commit and push
+        run: |
+          git config user.name "sathwik-bot"
+          git config user.email "269405923+sathwik-giddi@users.noreply.github.com"
+          git add README.md dist/
+          git diff --staged --quiet || git commit -m "chore: daily profile update $(date -u +%Y-%m-%d)"
+          git push
