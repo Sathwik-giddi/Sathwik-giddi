@@ -75,7 +75,7 @@
 
 ---
 
-> **Last profile update:** <!-- LAST_UPDATED -->2026-08-01<!-- /LAST_UPDATED -->
+> **Last profile update:** <!-- LAST_UPDATED -->2026-08-02<!-- /LAST_UPDATED -->
 
 <div align="center">
   <sub>🔄 Auto-updated daily via GitHub Actions</sub>
