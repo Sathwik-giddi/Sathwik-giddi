@@ -152,6 +152,6 @@ Collaborations on applied AI, backend systems and dev tooling. If you are buildi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1116&height=100&section=footer&text=&fontSize=12" width="100%" />
 
-<sub>Surampalem, India · +91-6302989942 · sathwikgiddi01@gmail.com</sub>
+<sub>sathwikgiddi01@gmail.com</sub>
 
 </div>
