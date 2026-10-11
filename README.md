@@ -1,28 +1,50 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111418,100:0b0f14&height=170&section=header&text=Sathwik%20Giddi&fontSize=52&fontColor=f0f2f4&fontAlignY=38&desc=Backend%20%E2%80%A2%20AI%20Systems%20Engineer&descAlignY=66&descSize=17&descColor=f97c3d&descAlign=center" width="100%" alt="Sathwik Giddi, backend and AI systems engineer" />
+</p>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgMTYwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE2MCI+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxNjAiIGZpbGw9IiMxMTE0MTgiLz48dGV4dCB4PSI0OCIgeT0iODIiIGZvbnQtZmFtaWx5PSJIZWx2ZXRpY2EsQXJpYWwiIGZvbnQtc2l6ZT0iNTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmMGYyZjQiPlNhdGh3aWsgR2lkZGk8L3RleHQ+PHRleHQgeD0iNDgiIHk9IjExNiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxNCIgbGV0dGVyLXNwYWNpbmc9IjIiIGZpbGw9IiNmOTdjM2QiPkJBQ0tFTkQgLyBBSSBTWVNURU1TIEVOR0lORUVSPC90ZXh0Pjwvc3ZnPg==" width="100%" alt="custom banner" />
+**Backend and AI systems engineer.** I build the services and the AI systems behind products that have to stay up.
 
-</div>
+Currently at **Intellious Technologies**, working across a six-microservice platform.
 
-## Card grid test
+[Portfolio](https://github.com/Sathwik-giddi/portfolio) · [LinkedIn](https://www.linkedin.com/in/sathwik-giddi) · [Email](mailto:sathwikgiddi01@gmail.com)
+
+## Selected work
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top" bgcolor="#111418" style="border:1px solid #f97c3d;padding:16px">
+<td width="50%" valign="top" bgcolor="#0d1117" style="border:1px solid #f97c3d;padding:18px">
 
-### DeployX
+**DeployX**
 
-Deployment infrastructure for multi-tenant customers.
+Deployment infrastructure for multi-tenant customers. Takes a customer's environment as input and produces everything needed to ship into it, with rollback handled automatically when a deploy goes wrong.
 
 </td>
-<td width="50%" valign="top" bgcolor="#111418" style="border:1px solid #38bdf8;padding:16px">
+<td width="50%" valign="top" bgcolor="#0d1117" style="border:1px solid #58a6ff;padding:18px">
 
-### Cannvue
+**Cannvue**
 
-Interview platform used across two institutes.
+An interview platform used across two institutes, handling real-time evaluation and proctoring for AI-assisted technical interviews.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" bgcolor="#0d1117" style="border:1px solid #3fb950;padding:18px">
+
+**RemoteOps**
+
+Access control for multi-organization systems, built so the security properties are tested rather than asserted.
+
+</td>
+<td width="50%" valign="top" bgcolor="#0d1117" style="border:1px solid #bc8cff;padding:18px">
+
+**StartupVerse**
+
+A distributed simulator for company building, where the business rules are deterministic and the AI layer sits on top.
 
 </td>
 </tr>
 </table>
 </div>
+
+Thirteen systems documented in depth in the [portfolio repository](https://github.com/Sathwik-giddi/portfolio).
