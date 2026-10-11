@@ -1,23 +1,28 @@
-# Sathwik Giddi
+<div align="center">
 
-**Backend and AI systems engineer.** I build the services and the AI systems behind products that have to stay up.
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgMTYwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE2MCI+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxNjAiIGZpbGw9IiMxMTE0MTgiLz48dGV4dCB4PSI0OCIgeT0iODIiIGZvbnQtZmFtaWx5PSJIZWx2ZXRpY2EsQXJpYWwiIGZvbnQtc2l6ZT0iNTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmMGYyZjQiPlNhdGh3aWsgR2lkZGk8L3RleHQ+PHRleHQgeD0iNDgiIHk9IjExNiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIxNCIgbGV0dGVyLXNwYWNpbmc9IjIiIGZpbGw9IiNmOTdjM2QiPkJBQ0tFTkQgLyBBSSBTWVNURU1TIEVOR0lORUVSPC90ZXh0Pjwvc3ZnPg==" width="100%" alt="custom banner" />
 
-Currently at **Intellious Technologies**, working across a six-microservice platform.
+</div>
 
-[Portfolio](https://github.com/Sathwik-giddi/portfolio) · [LinkedIn](https://www.linkedin.com/in/sathwik-giddi) · [Email](mailto:sathwikgiddi01@gmail.com)
+## Card grid test
 
-## Selected work
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" bgcolor="#111418" style="border:1px solid #f97c3d;padding:16px">
 
-**DeployX** · Deployment infrastructure for multi-tenant customers. Takes a customer's environment as input and produces everything needed to ship into it, with rollback handled automatically when a deploy goes wrong.
+### DeployX
 
-**Cannvue** · An interview platform used across two institutes, handling real-time evaluation and proctoring for AI-assisted technical interviews.
+Deployment infrastructure for multi-tenant customers.
 
-**RemoteOps** · Access control for multi-organization systems, built so the security properties are tested rather than asserted.
+</td>
+<td width="50%" valign="top" bgcolor="#111418" style="border:1px solid #38bdf8;padding:16px">
 
-## Elsewhere
+### Cannvue
 
-Thirteen systems documented in depth, with notes on what each one does when things go wrong, in the [portfolio repository](https://github.com/Sathwik-giddi/portfolio).
+Interview platform used across two institutes.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sathwik-giddi&show_icons=true&theme=tokyonight" alt="GitHub statistics" width="300" />
+</td>
+</tr>
+</table>
+</div>
