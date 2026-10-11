@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Sathwik Giddi, backend and AI systems engineer, available for work in Bangalore">
+  <style>
+    .bg { fill: #f9fafb; }
+    .hair { stroke: #d8dce1; }
+    .name { fill: #111417; }
+    .muted { fill: #53595f; }
+    .label { fill: #767c83; }
+    .accent { fill: #c63a00; }
+    .accent-stroke { stroke: #c63a00; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0c0f12; }
+      .hair { stroke: #262b31; }
+      .name { fill: #f0f2f4; }
+      .muted { fill: #a2a8af; }
+      .label { fill: #8a9199; }
+      .accent { fill: #f97c3d; }
+      .accent-stroke { stroke: #f97c3d; }
+    }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="1200" height="300" rx="10" />
+
+  <!-- Eyebrow: the path bar, the way an instrument labels its own channel. -->
+  <text class="mono label" x="56" y="62" font-size="14" letter-spacing="1.6">SATHWIK-GIDDI / README</text>
+
+  <!-- Ticks along the top rule, quarterly feel without a chart. -->
+  <g class="hair" stroke-width="1">
+    <line x1="56" y1="86" x2="1144" y2="86" />
+  </g>
+  <g class="hair" stroke-width="1" opacity="0.55">
+    <line x1="56" y1="82" x2="56" y2="90" />
+    <line x1="278" y1="82" x2="278" y2="90" />
+    <line x1="500" y1="82" x2="500" y2="90" />
+    <line x1="722" y1="82" x2="722" y2="90" />
+    <line x1="944" y1="82" x2="944" y2="90" />
+    <line x1="1144" y1="82" x2="1144" y2="90" />
+  </g>
+
+  <text class="sans name" x="56" y="166" font-size="58" font-weight="700" letter-spacing="-1.6">Sathwik Giddi</text>
+  <text class="sans muted" x="56" y="205" font-size="24" font-weight="500">Backend and AI systems engineer</text>
+
+  <!-- The signature readout. One lit lamp: a live status, not decoration. -->
+  <circle class="accent" cx="62" cy="248" r="5" />
+  <circle class="accent-stroke" cx="62" cy="248" r="10" fill="none" stroke-width="1" opacity="0.35" />
+  <text class="mono muted" x="86" y="253" font-size="15" letter-spacing="1.8">AVAILABLE FOR WORK  ·  BACKEND / AI SYSTEMS  ·  BANGALORE, IN</text>
+</svg>
